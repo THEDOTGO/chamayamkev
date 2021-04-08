@@ -106,7 +106,7 @@ a.nav-link{
 .button:hover{
   text-decoration: none;
   color: #fff;
-  
+  font-weight: bold;
     cursor: pointer;
     
     
