@@ -497,6 +497,14 @@ box-shadow:         1px 1px 20px 5px #ccc;
 
 @media only screen and (max-width: 768px) {
 
+.brands{
+    padding: 1em;
+  
+   
+}
+.aboutUs{
+    padding: 2em;
+}
 
  
 .heroContent h1{
@@ -666,7 +674,8 @@ padding: 0em 2em 0em 3em;
         height: 0;
     }
     .btn-chamayam{
-        margin: 2rem 0 !important;
+        margin:  0 !important;
+        
     }
     .brands .serviceContent .row{
         margin: 0 !important;
@@ -702,6 +711,11 @@ padding: 0em 2em 0em 3em;
     }
     .btnNav{
         display: none;
+    }
+    .owl-nav{
+        margin-top: .1em;
+        margin-left: 6em;
+        padding: .1em .2em 0em 0em;
     }
   
     
