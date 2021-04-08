@@ -496,6 +496,8 @@ box-shadow:         1px 1px 20px 5px #ccc;
 
 
 @media only screen and (max-width: 768px) {
+
+
  
 .heroContent h1{
     font-size: 4rem;
@@ -549,13 +551,13 @@ box-shadow:         1px 1px 20px 5px #ccc;
     height: auto;
 }
 .serviceContent{
-padding: 0em 2em 0em 3em;
+padding: 0em 1em 0em 3em;
 }
 
 
 
 .aboutUs .serviceContent{
-    width: 100%;
+    width: 50%;
  
 }
 
@@ -597,6 +599,8 @@ padding: 0em 2em 0em 3em;
     object-position: center;
     object-fit: contain;
 }
+
+
 
     /*
     .services{
